@@ -1,0 +1,35 @@
+body  {
+  background-color: #ebebd6;
+  display: block;
+  margin: 8px;
+}
+
+ .container {
+  width: 700px;
+  margin: auto;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: red;
+  list-style-type: none;
+  margin: 0;
+  padding: 5px;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+}
+
+figure{
+    margin: 22px 10px 10px 0px;
+    float: left;
+    width: 200px;
+}
+
+h2{
+    clear: both;
+}
